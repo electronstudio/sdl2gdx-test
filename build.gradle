@@ -56,6 +56,7 @@ project(":core") {
         implementation "com.badlogicgames.gdx:gdx:$gdxVersion"
         implementation "com.badlogicgames.gdx:gdx-box2d:$gdxVersion"
         implementation "com.badlogicgames.gdx:gdx-controllers:$gdxVersion"
-        implementation "uk.co.electronstudio.sdl2gdx:sdl2gdx:1.0.4-beta3"
+        implementation "uk.co.electronstudio.sdl2gdx:sdl2gdx:1.0.4"
+
     }
 }
